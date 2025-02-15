@@ -21,11 +21,7 @@ This project analyzes the **Netflix Titles Dataset**, focusing on **data cleanin
    git clone https://github.com/your-username/netflix-analysis.git
    cd netflix-analysis
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
+2. Run the Jupyter Notebook:
    ```bash
    jupyter notebook netflix_titles.ipynb
    ```
